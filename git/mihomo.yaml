@@ -31,23 +31,23 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, alterId: 0, cipher: auto, tls: true, servername: white.pirouzamfoxx.dpdns.org, network: ws, ws-opts: {path: /?fake=1, headers: {Host: white.pirouzamfoxx.dpdns.org}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, alterId: 0, cipher: auto, tls: true, servername: white.pirouzamfoxx.dpdns.org, network: ws, ws-opts: {path: /?fake=1, headers: {Host: white.pirouzamfoxx.dpdns.org}}, udp: false}
-  - {name: "سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]", server: white.pirouzamfoxx.dpdns.org, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]", server: 162.159.43.190, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]", server: 198.41.208.35, port: 2083, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]", server: 104.26.12.228, port: 2083, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]", server: 172.67.77.225, port: 2053, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]", server: 104.26.11.109, port: 2087, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]", server: 104.16.150.8, port: 2053, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]", server: 104.17.149.154, port: 2096, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]", server: 104.16.156.227, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]", server: 91.193.58.172, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]", server: 8.35.211.176, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]", server: 104.19.52.221, port: 2083, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]", server: 198.41.223.63, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]", server: 198.41.209.7, port: 2083, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]", server: 173.245.58.147, port: 2053, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]", server: 104.17.113.157, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]", server: 104.16.245.191, port: 2053, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]", server: white.pirouzamfoxx.dpdns.org, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]", server: 104.17.179.67, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]", server: 104.17.144.246, port: 2053, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]", server: 162.159.47.83, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]", server: 172.67.68.128, port: 2053, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]", server: 104.17.116.127, port: 2096, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]", server: 104.16.145.15, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]", server: 104.17.60.150, port: 2087, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]", server: 104.17.208.66, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]", server: 8.39.125.154, port: 2096, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]", server: 104.19.35.29, port: 2083, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]", server: 198.41.223.55, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]", server: 8.35.211.95, port: 2096, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]", server: 162.159.38.21, port: 443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]", server: 172.67.71.109, port: 2083, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]", server: 104.19.145.64, port: 2087, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]", server: 104.17.101.120, port: 8443, type: vless, uuid: b01bdc31-0a21-4b55-84cc-a980c8f5a1cf, tls: true, skip-cert-verify: false, servername: white.pirouzamfoxx.dpdns.org, client-fingerprint: ios, network: ws, ws-opts: {path: /video/GRJFGxQGEQsPQw5RWl4BQBkXRVdHFw1MDFwaCkEJUwxPAFpTTAQITFZUER0PQA5ARQ8OUwUNHUU=, headers: {Host: white.pirouzamfoxx.dpdns.org}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,22 +59,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -82,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -127,22 +127,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,22 +169,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -197,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova_proxy white.pirouzamfoxx.dpdns.org:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 162.159.43.190:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.35:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.12.228:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.225:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.26.11.109:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.150.8:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.149.154:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.156.227:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.58.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.176:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.52.221:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.63:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.7:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 173.245.58.147:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.113.157:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.245.191:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.179.67:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.144.246:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.47.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.68.128:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.116.127:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.145.15:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.60.150:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.208.66:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.35.29:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 198.41.223.55:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.95:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.21:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.71.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.145.64:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.101.120:8443 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
